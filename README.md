@@ -5,4 +5,4 @@ It uses the API of bit.ly
 
 The file bot.py is the script of the Telegram Bot.
 
-Available in English and Italian languages at the following link httpst.meaccorcialinkbot or searching for @AccorciaLinkBot. [v1.0]
+Available in English and Italian languages at the following link https://t.me/accorcialinkbot or searching for @AccorciaLinkBot. [v1.0]
