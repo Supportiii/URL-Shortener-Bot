@@ -1,9 +1,12 @@
 IT = "it"
 EN = "en"
+DE = "de"
 
 WELCOME_MESSAGE = {
                         EN : "Send a link at any time that you want to shorten with bit.ly\n",
-                        IT : " Invia in qualsiasi momento un link che vuoi accorciare con bit.ly"
+                        IT : " Invia in qualsiasi momento un link che vuoi accorciare con bit.ly\n",
+                        DE : " Sende nun den Link, den du kürzen möchtest."
+  
                     }
 HELP_MESSAGE = {
                         EN : "This bot allows you to short a link with the bit.ly service. Send a valid link at any time to get the shortened link. You can also use the inline mode writing {} (followed by the link you want to shrink) in any chat!\n\n",
